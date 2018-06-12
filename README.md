@@ -1,7 +1,7 @@
 # ReactReduxBioler
 
 This is a boilerplate of redux in react app.
-Clone it
-npm install
+1> Clone it
+2> npm install
 
 Good to go.
